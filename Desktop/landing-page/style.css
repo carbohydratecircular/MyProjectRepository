@@ -1,0 +1,67 @@
+body{
+    color: #009933;
+    font-size: 14px;
+    font-family: Arial;
+}
+
+p{
+    letter-spacing: 5px;
+}
+
+.kursiv{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.otstyp{
+    font-size: 25pt;
+    text-indent: 50px;
+    font-family: Comic Sans;
+}
+
+.rich{
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    color:rgb(15, 207, 159);
+    line-height: 25pt;
+}
+
+.perenos{
+    white-space: nowrap;
+}
+
+.red{
+    color: #efff5b;
+    text-transform: uppercase;
+}
+
+.svoistva{
+    font-family: Courier;
+    font-size: 12pt;
+    text-transform: uppercase;
+    line-height: 200%;
+    text-decoration: underline;
+    text-indent: 2cm;
+
+}
+
+.perviu{
+    font-family: Georgia;
+    font-size: 30px;
+    font-style: italic
+}
+
+.vtoroi{
+    font-family: Georgia;
+    font-size: 16px;
+    font-style: italic;
+    color:rgb(61, 42, 165)
+}
+
+.tretiu{
+    font-family: Georgia;
+    font-size: 20px;
+    font-weight: bold;
+}
